@@ -46,7 +46,7 @@ This password generator was designed to help generate a password based on the us
 Utilizing the site is simple! 
 
 Load the site by copying and pasting the link on to a browser.
-* 
+* https://kpxcrew.github.io/passproject/
 Click "Generate Password." Follow the prompts to generate a password.
 
 ## Screenshots

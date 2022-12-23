@@ -39,11 +39,11 @@ function getCriteria(){
   choiceArray = [];
   //first criteria, how many?
       //parseInt make into a number
-    characterLength = parseInt(prompt("How many characters do you want your password to be?"));
+    characterLength = prompt("How many characters do you want your password to be?");
 
     if(isNaN(characterLength) || characterLength < 8 || characterLength > 128) {
       alert ("Must be a number within 8 and 128") 
-      return getCriteria();
+      return null;
     }
 
 //individual confirmations of criteria

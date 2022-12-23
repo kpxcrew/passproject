@@ -5,9 +5,9 @@ By David Lee
 
 
 ## Technologies Used
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ## User Story
 
@@ -50,7 +50,7 @@ Load the site by copying and pasting the link on to a browser.
 Click "Generate Password." Follow the prompts to generate a password.
 
 ## Screenshots
-![Screenshot1](./assets/images/Screenshot1.png)
+![Screenshot1](./assets/Screenshot1.png)
 
 ## Sources
 
